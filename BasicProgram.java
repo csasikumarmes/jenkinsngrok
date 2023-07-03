@@ -4,6 +4,7 @@ public class BasicProgram {
 	
 	private void courseDetails() {
 	System.out.println("JAVA Basics Class");
+		System.out.println("Git July 3");
 	}
 	
 	
