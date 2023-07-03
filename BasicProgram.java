@@ -6,6 +6,7 @@ public class BasicProgram {
 	System.out.println("JAVA Basics Class");
 		System.out.println("Git July 3");
 		System.out.println("Git 11 PM IST");
+		System.out.println("Git 11:10 PM IST");
 	}
 	
 	
